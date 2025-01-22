@@ -18,4 +18,4 @@ The display device will have a stepper-motor-driven gauage needle that provides 
 #### Devices communicate with each other and a detailed diagram 
 <img src="images/Slides4.jpg" alt="Boxing Glove" width="700" class="center" />
 
-<
+Link to the datasheet: https://github.com/urnotvicky-li/System-Architecture-with-Diagram-HW-SW-/blob/main/datasheets/0a-esp8266ex_datasheet_en.pdf
