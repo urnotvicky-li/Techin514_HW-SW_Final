@@ -8,7 +8,7 @@ A standalone device that monitors the fermentation environment conditions of SCO
 <img src="images/Idea - 1.jpg" alt="Boxing Glove" width="700" class="center" />
 
 #### Sensor Device:
-It uses the BMP280 sensor to measure the temperature inside the fermentation setup, ensuring it stays within the optimal range (20–30°C) for SCOBY health. Sensors are connected to an ESP32 XIAO microcontroller. An LED indicator on the device provides a quick visual alert if any parameter goes out of range.
+It uses the BMP280/ESP8266 sensor to measure the temperature inside the fermentation setup, ensuring it stays within the optimal range (20–30°C) for SCOBY health. Sensors are connected to an ESP32 XIAO microcontroller. An LED indicator on the device provides a quick visual alert if any parameter goes out of range.
 <img src="images/Sensor Device.jpg" alt="Boxing Glove" width="700" class="center" />
 
 #### Display Device:
@@ -18,4 +18,4 @@ The display device will have a stepper-motor-driven gauage needle that provides 
 #### Devices communicate with each other and a detailed diagram 
 <img src="images/Slides4.jpg" alt="Boxing Glove" width="700" class="center" />
 
-
+<
