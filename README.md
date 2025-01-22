@@ -16,6 +16,7 @@ The display device will have a stepper-motor-driven gauage needle that provides 
 <img src="images/Sensor Device.jpg" alt="Boxing Glove" width="700" class="center" />
 
 #### Devices communicate with each other and a detailed diagram 
+How it works: The top of the enclousre will place all the sensors and display. The temperature sensor will reach to the liquid within the ideal range for fermentation. The display will shows whether the temperature is right or not and the LED will light up on top of the enclosure to alert you. Devices are batter-powered.
 <img src="images/Slides4.jpg" alt="Boxing Glove" width="700" class="center" />
 
 Link to the datasheet: https://github.com/urnotvicky-li/System-Architecture-with-Diagram-HW-SW-/blob/main/datasheets/0a-esp8266ex_datasheet_en.pdf
