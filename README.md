@@ -5,3 +5,4 @@
 <img src="images/Idea - 1.jpg" alt="Boxing Glove" width="700" class="center" />
 <img src="images/Sensor Device.jpg" alt="Boxing Glove" width="700" class="center" />
 <img src="images/Sensor Device.jpg" alt="Boxing Glove" width="700" class="center" />
+<img src="images/Slides4.jpg" alt="Boxing Glove" width="700" class="center" />
