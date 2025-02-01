@@ -1,4 +1,4 @@
-# System Architecture with Diagram HW SW
+# HW & SW Lab: Mushroom Growing Temperature and Humidity Monitor
 ---
 ## Real-Time Monitoring of SCOBY growth for Sustainable Biomaterial Development
 #### Project Discription:
